@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chibife</h1>
+<h1 align="center">Hi 👋, I'm Chibuife</h1>
 <h3 align="center">Not just a developer, an aspiring software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chibuife&label=Profile%20views&color=0e75b6&style=flat" alt="chibuife" /> </p>
