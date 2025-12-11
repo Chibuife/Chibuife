@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chibuife</h1>
-<h3 align="center">Not just a software developer, an aspiring software engineer</h3>
+<h3 align="center">software engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chibuife" alt="chibuife" /></a> </p>
 
